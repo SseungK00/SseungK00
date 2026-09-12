@@ -1,8 +1,8 @@
 <!--
 **SseungK00/SseungK00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=120&text=SseungK00%20Kim&animation=&fontColor=000000&fontSize=40" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=120&text=seunghyun%20Kim&animation=&fontColor=000000&fontSize=40" />
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
